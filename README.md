@@ -7,8 +7,8 @@ Currently my main interests are in:
 - Quantum Computing ⚛
 - Software Engineering 👨‍💻
 
-- 💬 Ask me about Physics, Computer Science and interesting math/science problems!
-- 📫 How to reach me: clyde.lhui@u.nus.edu
+💬 Ask me about Physics, Computer Science and interesting math/science problems!
+📫 How to reach me: clyde.lhui@u.nus.edu
 
 
 <!--
